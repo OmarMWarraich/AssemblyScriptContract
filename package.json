@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/OmarMWarraich/AssemblyScriptContract#readme",
   "dependencies": {
+    "assemblyscript": "^0.19.23",
     "near-sdk-as": "^3.2.3"
   }
 }
