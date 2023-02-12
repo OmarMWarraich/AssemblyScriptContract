@@ -87,7 +87,7 @@ You can download the page by clicking in the code green button and select Downlo
 - Open your terminal and change the directory to the location of this repo using this command `cd file_path`
 - Run this command `npm i` to install all the dependencies
 
-<img src="terminal.png" alt="logo" width="140"  height="auto" />
+<img src="terminal.png" alt="logo" width="100%"  height="auto" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
