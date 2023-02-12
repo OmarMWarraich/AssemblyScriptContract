@@ -1,0 +1,25 @@
+{
+  "name": "assemblyscriptcontract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmarMWarraich/AssemblyScriptContract.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmarMWarraich/AssemblyScriptContract/issues"
+  },
+  "homepage": "https://github.com/OmarMWarraich/AssemblyScriptContract#readme",
+  "dependencies": {
+    "asbuild": "^0.2.0",
+    "assemblyscript": "^0.19.23",
+    "near-sdk-as": "^3.2.3"
+  }
+}
